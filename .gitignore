@@ -1,0 +1,34 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Java / Maven
+target/
+*.class
+*.log
+
+# Node.js
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Keys & Certificates
+*.pem
+*.key
+*.crt
+
+# Build folders
+build/
+out/
